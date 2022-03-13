@@ -1,1 +1,1 @@
-# .netCleanApi
+# .net6CleanApi
